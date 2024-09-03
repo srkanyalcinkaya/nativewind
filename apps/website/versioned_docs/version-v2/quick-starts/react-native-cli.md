@@ -6,7 +6,7 @@ import Dependencies from "../\_dependencies.mdx"
 ## 1. Create the project
 
 ```bash
-npx react-native init AwesomeProject
+npx @react-native-community/cli@latest init AwesomeProject
 cd AwesomeProject
 ```
 
